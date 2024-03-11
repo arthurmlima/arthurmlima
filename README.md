@@ -1,16 +1,15 @@
-### Hi there 👋
+Arthur M. Lima, Eng.
+Member, IEEE, Circuits and Systems Society (CAS)
 
-<!--
-**arthurmlima/arthurmlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems Engineer, currently pursuing a Master's Degree at the University of Brasília. 
+I develop and optimize SoC hardware/software designs for for secure communication.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://orcid.org/0000-0002-0542-3753">
+  <img src="https://gist.githubusercontent.com/arthurmlima/a6bc2e9539e534b74318c34605dde99e/raw/c58af2fedda95c2850c5f6b467a79d19f400efe5/orcid.svg" width="16" height="16" alt="ORCID">
+</a>
+<a href="https://scholar.google.com/citations?user=jFiIqJ0AAAAJ&hl=en">
+  <img src="https://gist.githubusercontent.com/arthurmlima/a6bc2e9539e534b74318c34605dde99e/raw/c58af2fedda95c2850c5f6b467a79d19f400efe5/google-scholar.svg" width="16" height="16" alt="Google Scholar">
+</a>
+<a href="mailto:arthurmlima@ieee.org">
+  <img src="https://gist.githubusercontent.com/arthurmlima/a6bc2e9539e534b74318c34605dde99e/raw/49da5d5c4b283180670176ff75576db2a8df3626/mail.svg" width="16" height="16" alt="Email">
+</a>
